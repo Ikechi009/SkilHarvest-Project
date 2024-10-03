@@ -1,5 +1,14 @@
 # SkilHarvest Data Inventory
 
+## Table of Outline
+## [Project Overview](project-overview)
+## [Data Source](data-source)
+## [Tools used](tools-used)
+## [Data Cleaning and Preparation](data-cleaning-and-preparation)
+## [Exploratory Data Analysis](exploratory-data-analysis)
+## [Data Analysis](data.analysis)
+## [Inference / Insight](inference-/-insight)
+
 ### Project Overview
 ---
 This Data Analysis project aims to generate insight into the sales performance of the E commerce project over the past year. By analysing the various parameters in the data received we seek to gather enough insight to make reasonable decisions which then enable us to tell compelling stories around our data from the insight gotten and to know the best performance from our data.
@@ -57,3 +66,8 @@ This is where you put the insight gotten from the analysis
 - 🕴️
 - 💻
 - 😆
+
+  #### Creating Table
+  | Table 1| Table 2| Tables 3|
+  |--------|--------|---------|
+  |Sales| Amount| Order ID|
