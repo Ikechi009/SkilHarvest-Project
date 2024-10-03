@@ -34,3 +34,6 @@ This is where we include some basic lines of code or queries or even some of the
 SELECT * FROM TABLE 1
 WHERE CONDITION = TRUE
 ```
+
+
+![WIN_20210717_07_43_54_Pro](https://github.com/user-attachments/assets/377fb945-1056-4c13-8e3f-22fdbaf49926)
