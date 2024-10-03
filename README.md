@@ -1,13 +1,13 @@
 # SkilHarvest Data Inventory
 
 ## Table of Outline
-## [Project Overview](project-overview)
-## [Data Source](data-source)
-## [Tools used](tools-used)
-## [Data Cleaning and Preparation](data-cleaning-and-preparation)
-## [Exploratory Data Analysis](exploratory-data-analysis)
-## [Data Analysis](data.analysis)
-## [Inference / Insight](inference-/-insight)
+## [Project Overview](#project-overview)
+## [Data Source](#data-source)
+## [Tools used](#tools-used)
+## [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+## [Exploratory Data Analysis](#exploratory-data-analysis)
+## [Data Analysis](#data.analysis)
+## [Inference / Insight](#inference-/-insight)
 
 ### Project Overview
 ---
