@@ -7,9 +7,9 @@ This Data Analysis project aims to generate insight into the sales performance o
 The primary source of Data used here is Date Sale.csv and this is an open source of data that can be freely downloaded from an open source online such as Kaggle or FRED or any other data repository site.
 
 ### Tools used
-- Ms Excel
-  - This is majorly the tool used for our Analysis
-  - It help us to pivot and analyse our Data
+- Ms Excel [Download Here](https://www.microsoft.com)
+  1. This is majorly the tool used for our Analysis
+  2. It help us to pivot and analyse our Data
 - Microsoft Power Bi
 - Google Sheet
 
